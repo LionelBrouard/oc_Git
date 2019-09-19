@@ -1,0 +1,1 @@
+Voici la liste des jeux a essayer pendant Essen 2019 pour Geeklette, cette liste sera mis a jour au fur et a mesure des lectures des règles. Il y aura 2 catégories, Expert et Familial. 
