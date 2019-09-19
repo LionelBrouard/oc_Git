@@ -61,3 +61,6 @@ Mécaniques : Placement de tuiles, placement d’ouvriers
 La particularité de Cooper Island est la façon dont les joueurs marquent leurs points de victoire. Ils parcourent l’île avec de petits balises pour montrer leurs progrès. Sur leur chemin autour de l'île, ils découvrent de petites îles côtières offrant des avantages précieux. Après cinq tours, une partie de Cooper Island se termine et le joueur qui a développé le meilleur et qui est allé le plus loin avec ses navires va gagner.
 
 Snowdonia le must
+
+Teotihuacan l'extension
+
